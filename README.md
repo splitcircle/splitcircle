@@ -1,4 +1,3 @@
-### i'm chris 👋
 #### a bit about me
 - ♾ i'm [autistic](https://autisticadvocacy.org/about-asan/about-autism/)
 - 🧙‍♂️ currently working as a backend software engineer(node)
