@@ -4,7 +4,10 @@
 - 💻 currently using emacs, with the [doom](https://github.com/hlissner/doom-emacs) configuration framework
 - ⚗️ interested in rust, clojure and elm
 - 📚 currently reading [Anarchism in Latin America](https://www.goodreads.com/book/show/34381034-anarchism-in-latin-america)
-
+- 📫 you can reach me at 
+  * 📧 [email](mailto:chriscallanjr@me.com)
+  * 🕹 **discord:** @splitcircle#3202
+- 🔑 **pgp:** `59C0 DE34 23C8 2DCA`
 
 <!--
 **splitcircle/splitcircle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
