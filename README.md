@@ -6,7 +6,6 @@
 - 📫 you can reach me at 
   * 📧 [email](mailto:chriscallanjr@me.com)
   * 🕹 **discord:** @splitcircle#3202
-- 🔑 pgp: `59C0 DE34 23C8 2DCA`
 - 📚 currently reading [Anarchism in Latin America](https://www.goodreads.com/book/show/34381034-anarchism-in-latin-america)
 
 <!--
