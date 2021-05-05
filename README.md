@@ -1,7 +1,7 @@
 #### a bit about me
 - ♾ i'm [autistic](https://autisticadvocacy.org/about-asan/about-autism/)
 - 🧙‍♂️ currently working as a backend software engineer(node)
-- 💻 currently using vim, dotfiles are pinned
+- 💻 currently using emacs, dotfiles are pinned
 - ⚗️ interested in rust, clojure and elm
 - 📫 you can reach me at 
   * 📧 [email](mailto:chriscallanjr@me.com)
