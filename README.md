@@ -3,9 +3,6 @@
 - 🧙‍♂️ currently working as a backend software engineer(node)
 - 💻 currently using emacs, dotfiles are pinned
 - ⚗️ interested in rust, clojure and elm
-- 📫 you can reach me at 
-  * 📧 [email](mailto:chriscallanjr@me.com)
-  * 🕹 **discord:** @splitcircle#3202
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=splitcircle&count_private=true&show_icons=true&theme=react&include_all_commits=true)
 -->
