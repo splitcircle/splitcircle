@@ -1,3 +1,5 @@
+[![Pronouns](https://img.shields.io/badge/pronouns-she/her-ff69b4)](http://pronoun.is/she) [![Editor](https://img.shields.io/badge/editor-doom&ndash;emacs-blueviolet)](https://github.com/hlissner/doom-emacs) [![Location](https://img.shields.io/badge/location-🔔philadelphia-brightgreen)]()
+
 #### a bit about me
 - ♾ i'm [autistic](https://autisticadvocacy.org/about-asan/about-autism/)
 - 🧙‍♂️ currently working as a backend software engineer(node)
