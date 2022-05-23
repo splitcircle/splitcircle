@@ -2,7 +2,7 @@
 
 #### a bit about me
 - ♾ i'm [autistic](https://autisticadvocacy.org/about-asan/about-autism/)
-- 🔧 currently working as a backend software engineer(node, python, go)
+- 🔧 currently working as a senior software engineer(react, node)
 - 💻 currently using emacs, dotfiles are pinned
 - ⚗️ interested in haskell, elm, clojure and rust
 
